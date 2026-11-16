@@ -12,6 +12,8 @@ Respondo em até 2 dias úteis. Se a dúvida for de outras pessoas também, a re
 
 Alunos da disciplina também podem combinar atendimento presencial ou por Meet pelo grupo da turma.
 
+Para perguntas mais abertas ou para trocar ideias, use as [Discussions](../../discussions). O histórico do que a monitoria já fez está no [registro de atendimentos](atendimentos.md).
+
 ## Assuntos que eu atendo
 
 - Git e GitHub: commits, branches, conflitos, pull requests
