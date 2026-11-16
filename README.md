@@ -35,4 +35,4 @@ Links do projeto: [guia do minicurso](https://guia-devops-ifpr.vercel.app) e [re
 |---|---|---|
 | Aulas de Engenharia de Software I (BCC, IFPR Pinhais) | monitor em sala e no laboratório | semestre letivo de 2026 |
 | Minicurso nível 2 (CI com GitHub Actions) | monitor | a definir |
-| 1º Hackathon do curso | mentor das equipes | a definir |
+| 1º Hackathon do curso | mentor das equipes | previsto para a semana 20 do semestre (07 a 11/12/2026) |
