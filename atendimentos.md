@@ -4,6 +4,7 @@ Registro público do que a monitoria fez e de quem ela atendeu. Não guardo nome
 
 | Data | Tipo | Assunto | Público |
 |---|---|---|---|
+| 24/08/2026 | Atendimento (Google Meet) | Dúvidas sobre o projeto integrador de Engenharia de Software I, marcadas pelo aluno pelo WhatsApp | Aluno da disciplina (IFPR) |
 | 16/09/2026 | Teste de material | Guia do minicurso de nível 1 do projeto DevOps Azure IFPR, no laboratório 3 do campus. Erro de autenticação do Azure com conta de estudante ([detalhes](materiais/azure-conta-estudante.md)) | Preparação do minicurso aberto ao público na SciTec |
 | 17/09/2026 | Teste de material | Mesmo guia, remoto, depois da liberação das portas do servidor | Preparação do minicurso |
 | 21/09/2026 | Teste de material | Mesmo guia, nova tentativa remota | Preparação do minicurso |
